@@ -74,15 +74,12 @@ You'll learn how to:
   * Developed a professional [DEPLOY A SIEM Plan Proposal](https://docs.google.com/document/d/1MFeAzZRd2LEjIDgZlJqBle2h6V4VBP-_zbYgqI3TqEg/edit?usp=sharing) by engineering log pipeline metrics across local networks. Configured telemetry streams to route directly into a centralized security dashboard for continuous adversarial tracking using the [MegaQuagga Tool Output Data](https://docs.google.com/spreadsheets/d/1Mc0azxY1Rqq9hlBNejzq-tECjUKKUmBmWES6B3ggOWo/edit?usp=sharing).
 
 * **Project 3 (Infrastructure Baseline Evaluation)**
-  * **Link:** [Open RCI Infrastructure Analysis Portal](https://docs.google.com/spreadsheets/d/1D0QSnxsNDu0rDSCwaPePFsGlmfcCputjf_quSrmvG7A/edit?usp=sharing)
   * Authored the comprehensive [RCI Analysis (0x2A) Cybersecurity Recommendation Platform](https://docs.google.com/spreadsheets/d/1D0QSnxsNDu0rDSCwaPePFsGlmfcCputjf_quSrmvG7A/edit?usp=sharing). Evaluated business-critical continuity risks, identifying immediate administrative configuration prioritization tasks and infrastructure backup visibility gaps for stakeholders.
 
 * **Project 7 (Nessus Enterprise Vulnerability Scans)**
-  * **Link:** [Open MegaQuagga Vulnerability Assessment Matrix](https://docs.google.com/document/d/1KfHFSJnBLheNt9dAbNKX9MyAEKdGlxedP6K8v2S0x1U/edit?usp=sharing)
   * Produced the detailed risk breakdown: [From Security Blind Spots to Actionable Intelligence: 18 Critical Vulnerabilities Discovered with CVSS Scores Up to 9.8](https://docs.google.com/document/d/1KfHFSJnBLheNt9dAbNKX9MyAEKdGlxedP6K8v2S0x1U/edit?usp=sharing). Mapped architectural threat surfaces across domain networks using specialized endpoint vulnerability evaluations.
 
 * **Project 8 (Penetration Testing Reporting Framework)**
-  * **Link:** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing)
   * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your [IR Triage Report](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing). Formatted structural response documentation converting dense terminal outputs into remediation workflows.
 
 
