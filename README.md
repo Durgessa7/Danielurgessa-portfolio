@@ -124,15 +124,12 @@ If you have any questions or would like to discuss my projects, feel free to rea
   * Scan Outputs [MegaQuagga Tool Output Data](https://docs.google.com/spreadsheets/d/1Mc0azxY1Rqq9hlBNejzq-tECjUKKUmBmWES6B3ggOWo/edit?usp=sharing).
 
 * **Project 3 (Infrastructure Baseline Evaluation)**
-  * **Link:** [Open RCI Infrastructure Analysis Portal](https://docs.google.com/spreadsheets/d/1D0QSnxsNDu0rDSCwaPePFsGlmfcCputjf_quSrmvG7A/edit?usp=sharing)
   * Authored the comprehensive [RCI Analysis (0x2A) Cybersecurity Recommendation Platform](https://docs.google.com/spreadsheets/d/1D0QSnxsNDu0rDSCwaPePFsGlmfcCputjf_quSrmvG7A/edit?usp=sharing). Evaluated business-critical continuity risks, identifying immediate administrative configuration prioritization tasks and infrastructure backup visibility gaps for stakeholders.
 
 * **Project 7 (Nessus Enterprise Vulnerability Scans)**
-  * **Link:** [Open MegaQuagga Vulnerability Assessment Matrix](https://docs.google.com/document/d/1KfHFSJnBLheNt9dAbNKX9MyAEKdGlxedP6K8v2S0x1U/edit?usp=sharing)
   * Produced the detailed risk breakdown: [From Security Blind Spots to Actionable Intelligence: 18 Critical Vulnerabilities Discovered with CVSS Scores Up to 9.8](https://docs.google.com/document/d/1KfHFSJnBLheNt9dAbNKX9MyAEKdGlxedP6K8v2S0x1U/edit?usp=sharing). Mapped architectural threat surfaces across domain networks using specialized endpoint vulnerability evaluations.
 
 * **Project 8 (Penetration Testing Reporting Framework)**
-  * **Link:** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing)
   * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your [IR Triage Report](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing). Formatted structural response documentation converting dense terminal outputs into remediation workflows.
 
 
