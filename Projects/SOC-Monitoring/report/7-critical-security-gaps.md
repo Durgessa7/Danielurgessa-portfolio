@@ -26,7 +26,7 @@ Unsecured APIs and admin interfaces increase entry points for attackers.
 
 ## Mitigation Strategy
 - Enable MFA  
-- Secure coding practices  
-- SIEM monitoring (Splunk/Wazuh)  
-- Patch management  
-- API security hardening  
+- Implement secure coding practices (OWASP Top 10 mitigation)  
+- Centralized SIEM monitoring (Splunk/Wazuh)  
+- Regular patch management  
+- API security hardening and access control 
