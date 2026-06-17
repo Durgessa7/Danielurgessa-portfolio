@@ -82,7 +82,11 @@ Start small with one Event ID (1116) before expanding. Test your rules with Powe
 3. **[Wazuh Documentation](https://documentation.wazuh.com/)**
 4. **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
 ---
+## 🛠 Projects
+- **[SOC Monitoring & Incident Detection](Projects/SOC-Monitoring/README.md):** Enhanced Wazuh SIEM by integrating Windows Defender logs to detect advanced persistence and credential dumping.
+- **[Vulnerability Assessment](Projects/Vulnerability-Scan/README.md):** [Add a one-sentence description of your second project here.]
 
+---
 ## 🎓 Education
 - Ph.D. in Psychology  
 - M.S. Leadership in Homeland Security & Emergency Management  
