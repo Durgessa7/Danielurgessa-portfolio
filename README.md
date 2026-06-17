@@ -11,48 +11,76 @@ Cybersecurity Analyst with experience in SOC operations, vulnerability assessmen
 
 ---
 
-## 🛡️ SOC Monitoring Project
+# DEPLOY A SIEM Plan Proposal
 
-### Overview
-This project demonstrates basic SOC monitoring using SIEM tools to detect, analyze, and respond to security events.
-
-### Tools Used
-- Splunk  
-- Wazuh  
-- Windows Event Logs  
-- Linux Logs  
-
-### Objective
-To identify suspicious activity, analyze logs, and simulate incident detection workflows.
+**NAME:** Daniel Urgessa  
+**DATE SUBMITTED:** 12/05/2025  
+**TUTOR CONSULTED WITH:** Pending
 
 ---
 
-## 🚨 7 Critical Security Gaps Analysis
+## Introduction 
+### Hook/Teaser
+Ever wondered how attackers slip past endpoint protection? I enhanced my SIEM by integrating Windows Defender logs with Wazuh to catch regsvr32 abuse, credential dumping, and scheduled task persistence—techniques that often evade basic detection.
 
-### Overview
-Identified seven major cybersecurity vulnerabilities in a simulated gaming platform environment that could lead to financial loss, data breaches, and service disruption.
+### Personal Connection
+As a cybersecurity pro, I see attackers exploit SIEM vs. endpoint security gaps. This initiative bridges it by uniting Windows Defender's real-time protection with Wazuh's analytics.
 
-### Key Findings
-- Exposed Credentials  
-- Web Application Vulnerabilities (SQLi, XSS, CSRF)  
-- Weak Authentication Controls  
-- Insufficient Monitoring & Logging  
-- Infrastructure Misconfiguration  
-- Phishing & Social Engineering  
-- Attack Surface Exposure  
+### Preview
+You'll learn how to: 
+* Include the logs for Windows Defender in the Wazuh SIEM. 
+* Identify three important MITRE ATT&CK methods (T1218.010, T1003, T1053.005). 
+* Build detection rules that catch what traditional monitoring misses.
 
-### Mitigation Strategy
-- Enable Multi-Factor Authentication (MFA)  
-- Secure coding practices (OWASP Top 10)  
-- SIEM monitoring (Splunk / Wazuh)  
-- Regular patch management  
-- API security hardening  
+---
 
-### Frameworks Used
-- NIST Cybersecurity Framework (CSF)  
-- MITRE ATT&CK  
-- OWASP Top 10  
+## Setup Story 
+### Starting Point 
+* **Baseline SIEM state:** Wazuh manager collecting basic Windows Event Logs from ad01.
+* **Detection gap:** No insight into real-time Windows Defender protection events.
+* **Chosen modification:** Incorporate Windows Defender operational logs (Event IDs 1116, 1117, 2001, 2004).
 
+### Implementation Steps 
+**Week 1: Agent Configuration** 1. Verified Wazuh agent status on ad01: `Get-Service WazuhSvc`
+2. Modified `ossec.conf` to include Windows Defender log path.
+3. Enabled operational logging: `wevtutil sl "Microsoft-Windows-Windows Defender/Operational" /e:true`
+
+**Week 2: Rule Development** 1. Created custom rules for Event IDs 1116/1117.
+2. Tested log forwarding with PowerShell simulation.
+3. Validated rule triggering in Wazuh dashboard.
+
+### The Mistake: Permission Problems 
+* **What went wrong:** Wazuh agent lacked rights to read Defender logs. The agent service kept failing to start, and Event Viewer showed "Access Denied" errors.
+* **How I fixed it:** 1. Added the Wazuh service account to the "Event Log Readers" group.
+    2. Granted "Log on as a service" rights via Local Security Policy.
+    3. Restarted both Wazuh agent and Windows Event Log services.
+* **Lesson learned:** Always verify service account permissions before assuming configuration syntax is the problem.
+
+---
+
+## Experiment Time 
+| Experiment | Objective | Detection Rate |
+| :--- | :--- | :--- |
+| **1: Regsvr32 Abuse (T1218.010)** | Detect signed binary proxy execution | 100% |
+| **2: Credential Dumping (T1003)** | Catch SAM, LSASS, and cached credentials | 85% |
+| **3: Scheduled Task Persistence (T1053.005)** | Distinguish malicious vs. legitimate tasks | 95% |
+
+---
+
+## Final Thoughts
+### Coolest Learning
+The most fascinating discovery was how Windows Defender's Event ID 1116 provides real-time malware detection context that traditional Sysmon logs miss. 
+
+### Advice for Others 
+Start small with one Event ID (1116) before expanding. Test your rules with PowerShell simulations before running actual attack techniques—it saves hours of troubleshooting.
+
+---
+
+## References
+1. **[Atomic Red Team - T1218.010 Regsvr32](https://github.com/redcanaryco/atomic-red-team)**
+2. **[Windows Defender Event Log Analysis](https://otr.io/)** (Roberto Rodriguez)
+3. **[Wazuh Documentation](https://documentation.wazuh.com/)**
+4. **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
 ---
 
 ## 🎓 Education
