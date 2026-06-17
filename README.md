@@ -69,17 +69,14 @@ You'll learn how to:
 ## 🛠️ Hands-On Project Portals
 
 ### 🛠 Operational Projects & Dashboards
-### 🛠 Operational Projects & Dashboards
+
 * **Project 2 (SOC Operations Log Analytics)** — Developed a professional [DEPLOY A SIEM Plan Proposal](https://google.com) by engineering log pipeline metrics across local networks, and configured telemetry streams to route directly into a centralized security dashboard for continuous adversarial tracking using the [MegaQuagga tool output](https://google.com).
 
-* **Project 3 (Infrastructure Baseline Evaluation)** — Authored the comprehensive [RCI Analysis. (0x2A)-Cybersecurity Recommandation-Daniel Urgessa](https://google.com) to evaluate business-critical continuity risks, identifying immediate administrative configuration tasks and infrastructure backup visibility gaps for stakeholders.
+* **Project 3 (Infrastructure Baseline Evaluation)** — Authored the comprehensive [RCI Analysis. %280x2A%29-Cybersecurity Recommandation-Daniel Urgessa](https://google.com) to evaluate business-critical continuity risks, identifying immediate administrative configuration tasks and infrastructure backup visibility gaps for stakeholders.
 
 * **Project 7 (Nessus Enterprise Vulnerability Scans)** — Produced the detailed risk breakdown, [From Security Blind Spots to Actionable Intelligence: 18 Critical Vulnerabilities Discovered with CVSS Scores Up to 9.8](https://google.com), mapping architectural threat surfaces across domain networks using specialized endpoint vulnerability evaluations.
 
 * **Project 8 (Penetration Testing Reporting Framework)** — Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your [IR Triage Report](https://google.com), converting dense terminal outputs into organized administrative remediation workflows.
-
-  * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your [IR Triage Report](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing). Formatted structural response documentation converting dense terminal outputs into remediation workflows.
-
 
 
 
