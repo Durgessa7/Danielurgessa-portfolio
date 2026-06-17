@@ -15,7 +15,7 @@ Cybersecurity Analyst with experience in SOC operations, vulnerability assessmen
 
 **NAME:** Daniel Urgessa  
 **DATE SUBMITTED:** 12/05/2025  
-**TUTOR CONSULTED WITH:** Pending
+**STATUS:** Approved
 
 ---
 
