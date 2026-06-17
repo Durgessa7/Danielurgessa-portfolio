@@ -65,7 +65,6 @@ You'll learn how to:
 | **1: Regsvr32 Abuse (T1218.010)** | Detect signed binary proxy execution | 100% |
 | **2: Credential Dumping (T1003)** | Catch SAM, LSASS, and cached credentials | 85% |
 | **3: Scheduled Task Persistence (T1053.005)** | Distinguish malicious vs. legitimate tasks | 95% |
-## 🛠 Hands-On Project Portals
 ## 🛠️ Hands-On Project Portals
 
 ### 🛠 Operational Projects & Dashboards
