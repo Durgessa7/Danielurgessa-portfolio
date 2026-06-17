@@ -119,7 +119,7 @@ If you have any questions or would like to discuss my projects, feel free to rea
 * ### 🛠 Operational Projects & Dashboards
 
 * **Project 2 (SOC Operations Log Analytics)**
-  * **Link:** [View Live MegaQuagga Telemetry Spreadsheet](https://docs.google.com/spreadsheets/d/1Mc0azxY1Rqq9hlBNejzq-tECjUKKUmBmWES6B3ggOWo/edit?usp=sharing)
+  
   * Project Proposal [DEPLOY A SIEM Plan Proposal](https://docs.google.com/document/d/1MFeAzZRd2LEjIDgZlJqBle2h6V4VBP-_zbYgqI3TqEg/edit?usp=sharing) by engineering log pipeline metrics across local networks.
   * Scan Outputs [MegaQuagga Tool Output Data](https://docs.google.com/spreadsheets/d/1Mc0azxY1Rqq9hlBNejzq-tECjUKKUmBmWES6B3ggOWo/edit?usp=sharing).
 
