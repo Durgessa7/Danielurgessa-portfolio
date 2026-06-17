@@ -11,7 +11,8 @@ Cybersecurity Analyst with experience in SOC operations, vulnerability assessmen
 
 ---
 
-# DEPLOY A SIEM Plan Proposal
+# Deploy a SIEM Plan Proposal
+
 
 **NAME:** Daniel Urgessa  
 **DATE SUBMITTED:** 12/05/2025  
@@ -77,20 +78,22 @@ Start small with one Event ID (1116) before expanding. Test your rules with Powe
 ---
 
 ## References
-1. **[Atomic Red Team - T1218.010 Regsvr32](https://github.com/redcanaryco/atomic-red-team)**
-2. **[Windows Defender Event Log Analysis](https://otr.io/)** (Roberto Rodriguez)
-3. **[Wazuh Documentation](https://documentation.wazuh.com/)**
-4. **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
+1. [Atomic Red Team - T1218.010 Regsvr32](https://github.com)
+2. [Windows Defender Event Log Analysis](https://otr.io) (Roberto Rodriguez)
+3. [Wazuh Documentation](https://wazuh.com)
+4. [MITRE ATT&CK Framework](https://mitre.org)
+
 ---
 ## 🛠 Projects
 - **[SOC Monitoring & Incident Detection](Projects/SOC-Monitoring/README.md):** Enhanced Wazuh SIEM by integrating Windows Defender logs to detect advanced persistence and credential dumping.
-- **[Vulnerability Assessment](Projects/Vulnerability-Scan/README.md):** [Add a one-sentence description of your second project here.]
+- **[Vulnerability Assessment](Projects/Vulnerability-Scan/README.md):** Conducted automated vulnerability scans using Nessus to discover enterprise exposure risks, rank patching priorities, and verify system remediation.
 
 ---
 ## 🎓 Education
-- Ph.D. in Psychology  
-- M.S. Leadership in Homeland Security & Emergency Management  
-- B.A. Christian Studies  
+- **Ph.D. in Psychology** | California Pacific University, 2025 
+- **M.S. Leadership in Homeland Security & Emergency Management** | Grand Canyon University, 2024
+ - **B.A. Christian Studies** | Grand Canyon University, 2023
+ 
 
 ---
 
