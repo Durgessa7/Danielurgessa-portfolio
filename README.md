@@ -70,7 +70,6 @@ You'll learn how to:
 
 ### 🛠 Operational Projects & Dashboards
 
-### 🛠 Operational Projects & Dashboards
 
 * **Project 2 (SOC Operations Log Analytics)**
   * **Link:** [View Live MegaQuagga Telemetry Spreadsheet](YOUR_SPREADSHEET_URL_HERE)
@@ -85,12 +84,9 @@ You'll learn how to:
   * Produced the detailed risk breakdown: From Security Blind Spots to Actionable Intelligence: 18 Critical Vulnerabilities Discovered with CVSS Scores Up to 9.8. Mapped architectural threat surfaces across domain networks using specialized endpoint vulnerability evaluations.
 
 * **Project 8 (Penetration Testing Reporting Framework)**
-  * **Link:** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](YOUR_REMEDIATION_URL_HERE)
-  * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your IR Triage Report. Formatted structural response documentation converting dense terminal outputs into remediation workflows.
-
-    
-
-  * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your IR Triage Report. Formatted structural response documentation converting dense terminal outputs into remediation workflows.
+  * **Link:** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://github.com)
+  * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your IR Triage Report.
+  * Formatted structural response documentation converting dense terminal outputs into remediation workflows.
 
 * **[View Live MegaQuagga Telemetry Spreadsheet](YOUR_SPREADSHEET_URL_HERE)**
 * **Project 3 (Infrastructure Baseline Evaluation): [Open RCI Infrastructure Analysis Portal](YOUR_PORTAL_URL_HERE)**
