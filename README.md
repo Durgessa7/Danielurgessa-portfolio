@@ -65,6 +65,22 @@ You'll learn how to:
 | **1: Regsvr32 Abuse (T1218.010)** | Detect signed binary proxy execution | 100% |
 | **2: Credential Dumping (T1003)** | Catch SAM, LSASS, and cached credentials | 85% |
 | **3: Scheduled Task Persistence (T1053.005)** | Distinguish malicious vs. legitimate tasks | 95% |
+## 🛠 Hands-On Project Portals
+## 🛠️ Hands-On Project Portals
+
+* **Project 2 (SOC Operations Log Analytics):** [View Live MegaQuagga Telemetry Spreadsheet](https://docs.google.com/spreadsheets/d/1Mc0azxY1Rqq9hlBNejzq-tECjUKKUmBmWES6B3ggOWo/edit?usp=sharing)
+  * Developed a professional DEPLOY A SIEM Plan Proposal by engineering log pipeline metrics across local networks. Configured telemetry streams to route directly into a centralized security dashboard for continuous adversarial tracking.
+* **Project 3 (Infrastructure Baseline Evaluation):** [Open RCI Infrastructure Analysis Portal](https://docs.google.com/spreadsheets/d/1D0QSnxsNDu0rDSCwaPePFsGlmfcCputjf_quSrmvG7A/edit?usp=sharing)
+  * Authored the comprehensive RCI Analysis (0x2A) Cybersecurity Recommendation platform. Evaluated business-critical continuity risks, identifying immediate administrative configuration prioritization tasks and infrastructure backup visibility gaps for stakeholders.
+* **Project 7 (Nessus Enterprise Vulnerability Scans):** [Open MegaQuagga Vulnerability Assessment Matrix](https://docs.google.com/document/d/1KfHFSJnBLheNt9dAbNKX9MyAEKdGlxedP6K8v2S0x1U/edit?usp=sharing)
+  * Produced the detailed risk breakdown: From Security Blind Spots to Actionable Intelligence: 18 Critical Vulnerabilities Discovered with CVSS Scores Up to 9.8. Mapped architectural threat surfaces across domain networks using specialized endpoint vulnerability evaluations.
+* **Project 8 (Penetration Testing Reporting Framework):** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing)
+  * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your IR Triage Report. Formatted structural response documentation converting dense terminal outputs into remediation workflows.
+
+*   **Project 2 (SOC Operations Log Analytics):** [View Live MegaQuagga Telemetry Spreadsheet](https://google.com)
+*   **Project 3 (Infrastructure Baseline Evaluation):** [Open RCI Infrastructure Analysis Portal](https://google.com)
+*   **Project 7 (Nessus Enterprise Vulnerability Scans):** [Open MegaQuagga Vulnerability Assessment Matrix](https://google.com)
+*   **Project 8 (Penetration Testing Reporting Framework):** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://google.com)
 
 ---
 
