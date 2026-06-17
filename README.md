@@ -112,12 +112,12 @@ If you have any questions or would like to discuss my projects, feel free to rea
 ---
 
 
-## 🛠 Additional Projects & Reports
-* **[Threat Intelligence](./Projects/Threat-Intelligence/)**
-* **[Nessus Report](./Reports/Nessus-Report/)**
-* **[Incident Response](./Reports/Incident-Response/)**
 * ### 🛠 Operational Projects & Dashboards
-
+### 🛠 Additional Projects & Reports
+* Threat Intelligence
+* Nessus Report
+* Incident Response
+  
 * **Project 2 (SOC Operations Log Analytics)**
   
   * Project Proposal [DEPLOY A SIEM Plan Proposal](https://docs.google.com/document/d/1MFeAzZRd2LEjIDgZlJqBle2h6V4VBP-_zbYgqI3TqEg/edit?usp=sharing) by engineering log pipeline metrics across local networks.
