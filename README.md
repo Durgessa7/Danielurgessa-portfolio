@@ -86,7 +86,7 @@ Start small with one Event ID (1116) before expanding. Test your rules with Powe
 
 ---
 ## 📄 Resume
-[View My Resume](Daniel%20Urgessa%20–%20SOC%20Resume.pdf) 
+[[View My Resume](Daniel%20Urgessa%20–%20SOC%20Resume.pdf](https://github.com/Durgessa7/Danielurgessa-portfolio/blob/main/Daniel%20Urgessa%20%E2%80%93%20SOC%20Resume.pdf)) 
 
 If you have any questions or would like to discuss my projects, feel free to reach out via LinkedIn or email me at danielurgessaofficial@gmail.com
 If you have any questions or would like to discuss my projects, feel free to reach out via LinkedIn or email me at danielurgessaofficial@gmail.com
