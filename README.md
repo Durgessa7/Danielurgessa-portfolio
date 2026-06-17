@@ -69,7 +69,7 @@ You'll learn how to:
 ## 🛠️ Hands-On Project Portals
 
 ### 🛠 Operational Projects & Dashboards
-
+### 🛠 Operational Projects & Dashboards
 * **Project 2 (SOC Operations Log Analytics)** — Developed a professional [DEPLOY A SIEM Plan Proposal](https://google.com) by engineering log pipeline metrics across local networks, and configured telemetry streams to route directly into a centralized security dashboard for continuous adversarial tracking using the [MegaQuagga tool output](https://google.com).
 
 * **Project 3 (Infrastructure Baseline Evaluation)** — Authored the comprehensive [RCI Analysis. (0x2A)-Cybersecurity Recommandation-Daniel Urgessa](https://google.com) to evaluate business-critical continuity risks, identifying immediate administrative configuration tasks and infrastructure backup visibility gaps for stakeholders.
