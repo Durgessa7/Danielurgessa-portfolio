@@ -113,7 +113,27 @@ If you have any questions or would like to discuss my projects, feel free to rea
 
 
 * ### 🛠 Operational Projects & Dashboards
-### 🛠 Additional Projects & Reports
+  ### 🌐 Area 1: SIEM & SOC Log Analytics
+* **Core Focus:** Threat Detection and Centralized Event Monitoring
+* **Projects Included:** Project 2 (SOC Operations Log Analytics)
+* **Description:** Focuses on engineering network log pipelines and building advanced detection rules. This involves integrating endpoint event sources (like Windows Defender operational logs) into centralized SIEM platforms like Wazuh to capture hidden adversary techniques—including proxy execution, credential dumping, and persistence mechanisms.
+
+### 🛡️ Area 2: Vulnerability Management & Risk Assessment
+* **Core Focus:** Architectural Threat Analysis and Patch Prioritization
+* **Projects Included:** Project 7 (Nessus Enterprise Vulnerability Scans) & Nessus Report
+* **Description:** Dedicated to running automated enterprise vulnerability assessments to discover infrastructure exposure risks. The workload involves mapping cross-domain threat surfaces, analyzing severe risk breakdowns (such as discovering critical flaws with CVSS scores up to 9.8), and providing stakeholders with actionable intelligence to prioritize administrative patch management.
+
+### 🏢 Area 3: Infrastructure Evaluation & Business Continuity
+* **Core Focus:** Compliance, Risk Mitigation, and Platform Recommendations
+* **Projects Included:** Project 3 (Infrastructure Baseline Evaluation)
+* **Description:** Centers on examining business-critical continuity and infrastructure backup gaps. This area leverages structured evaluation frameworks (like the RCI Analysis Cybersecurity Recommendation Platform) to assess configuration risks and help organizations build resilient operational foundations that align with industry standards.
+
+### 📝 Area 4: Incident Response & Defensive Frameworks
+* **Core Focus:** Investigation Architecture and Post-Incident Workflows
+* **Projects Included:** Project 8 (Penetration Testing Reporting Framework), Threat Intelligence, & Incident Response
+* **Description:** Emphasizes translating technical threat data into defensive workflows. This involves engineering complete asset validation, tracking indicators of compromise (IOCs), and designing structured post-incident investigation layouts matching precise incident response criteria (such as an IR Triage Report) to convert terminal outputs into remediation steps.
+
+### 🛠 Projects & Reports
 * Threat Intelligence
 * Nessus Report
 * Incident Response
