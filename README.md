@@ -101,3 +101,13 @@ Start small with one Event ID (1116) before expanding. Test your rules with Powe
 - Email: danielurgessaofficial@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/daniel-urgessa/  
 - Location: Laurel, MD  
+---
+
+## 🛠 Additional Projects & Reports
+* **[Threat Intelligence](./Projects/Threat-Intelligence/)**
+* **[Nessus Report](./Reports/Nessus-Report/)**
+* **[Incident Response](./Reports/Incident-Response/)**
+
+## 📜 Certifications & Documents
+* **[Security+ Certification](./Certifications/SecurityPlus.pdf)**
+* **[Daniel Urgessa Resume](./Resume/Daniel-Urgessa-Resume.pdf)**
