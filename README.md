@@ -82,7 +82,11 @@ Start small with one Event ID (1116) before expanding. Test your rules with Powe
 2. [Windows Defender Event Log Analysis](https://otr.io) (Roberto Rodriguez)
 3. [Wazuh Documentation](https://wazuh.com)
 4. [MITRE ATT&CK Framework](https://mitre.org)
+---
+## 📄 Resume
+[View My Resume](Daniel%20Urgessa%20–%20SOC%20Resume.pdf)
 
+If you have any questions or would like to discuss my projects, feel free to reach out via LinkedIn or email me at danielurgessaofficial@gmail.com
 ---
 ## 🛠 Projects
 - **[SOC Monitoring & Incident Detection](Projects/SOC-Monitoring/README.md):** Enhanced Wazuh SIEM by integrating Windows Defender logs to detect advanced persistence and credential dumping.
