@@ -77,10 +77,10 @@ You'll learn how to:
 * **Project 8 (Penetration Testing Reporting Framework):** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://docs.google.com/document/d/1Nqf751s_ZjH7zaFfk9SX5vGeerwFx2sHJZRcOUXNT6c/edit?usp=sharing)
   * Engineered a complete asset validation and post-incident investigation layout matching the criteria inside your IR Triage Report. Formatted structural response documentation converting dense terminal outputs into remediation workflows.
 
-*   **Project 2 (SOC Operations Log Analytics):** [View Live MegaQuagga Telemetry Spreadsheet](https://google.com)
-*   **Project 3 (Infrastructure Baseline Evaluation):** [Open RCI Infrastructure Analysis Portal](https://google.com)
-*   **Project 7 (Nessus Enterprise Vulnerability Scans):** [Open MegaQuagga Vulnerability Assessment Matrix](https://google.com)
-*   **Project 8 (Penetration Testing Reporting Framework):** [Open MegaQuagga Phase 6 Patch & Remediation Sheet](https://google.com)
+* **[View Live MegaQuagga Telemetry Spreadsheet](YOUR_SPREADSHEET_URL_HERE)**
+* **Project 3 (Infrastructure Baseline Evaluation): [Open RCI Infrastructure Analysis Portal](YOUR_PORTAL_URL_HERE)**
+* **Project 7 (Nessus Enterprise Vulnerability Scans): [Open MegaQuagga Vulnerability Assessment Matrix](YOUR_MATRIX_URL_HERE)**
+* **Project 8 (Penetration Testing Reporting Framework): [Open MegaQuagga Phase 6 Patch & Remediation Sheet](YOUR_REMEDIATION_URL_HERE)**
 
 ---
 
