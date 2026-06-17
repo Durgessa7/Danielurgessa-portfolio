@@ -113,7 +113,7 @@ If you have any questions or would like to discuss my projects, feel free to rea
 
 
 * ### 🛠 Operational Projects & Dashboards
-  ### 🌐 Area 1: SIEM & SOC Log Analytics
+### 🌐 Area 1: SIEM & SOC Log Analytics
 * **Core Focus:** Threat Detection and Centralized Event Monitoring
 * **Projects Included:** Project 2 (SOC Operations Log Analytics)
 * **Description:** Focuses on engineering network log pipelines and building advanced detection rules. This involves integrating endpoint event sources (like Windows Defender operational logs) into centralized SIEM platforms like Wazuh to capture hidden adversary techniques—including proxy execution, credential dumping, and persistence mechanisms.
