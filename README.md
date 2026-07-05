@@ -157,3 +157,4 @@ If you have any questions or would like to discuss my projects, feel free to rea
 ## 📜 Certifications & Documents
 * **[Security+ Certification](./Certifications/SecurityPlus.pdf)**
 * **[Daniel Urgessa Resume](./Resume/Daniel-Urgessa-Resume.pdf)**
+
