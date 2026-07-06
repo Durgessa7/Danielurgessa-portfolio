@@ -156,5 +156,128 @@ If you have any questions or would like to discuss my projects, feel free to rea
 
 ## 📜 Certifications & Documents
 * **[Security+ Certification](./Certifications/SecurityPlus.pdf)**
-* **[Daniel Urgessa Resume](./Resume/Daniel-Urgessa-Resume.pdf)**
+* [Daniel Urgessa Resume](./Resume/Daniel-Urgessa-Resume.pdf)
+  
+# 🧪 Externship Hands-On Cybersecurity Project  
+## 🛡️ External Attack Surface & Vulnerability Analysis  
+### TripleTen Cybersecurity Externship Program  
 
+---
+
+## 📌 Executive Summary  
+This project documents a real-world-style external attack surface assessment conducted during a cybersecurity externship. The objective was to simulate an attacker’s perspective to evaluate public-facing infrastructure, identify exposed assets, analyze service-level risks, and assess email/domain security posture.
+
+The engagement focused on external reconnaissance, service enumeration, and email security validation, with findings translated into business-focused risk insights.
+
+
+## 🎯 Objectives  
+- Identify externally exposed assets and attack surface  
+- Perform network discovery and host identification  
+- Conduct service enumeration and port analysis  
+- Evaluate firewall and exposure controls  
+- Assess email authentication (SPF, DKIM, DMARC)  
+- Translate technical findings into business risk insights  
+
+---
+
+## 🧪 Methodology  
+
+### 🔍 Passive Reconnaissance  
+- DNS record analysis  
+- Public footprint and attack surface mapping  
+- External OSINT gathering  
+
+### ⚙️ Active Reconnaissance  
+- Nmap / Zenmap host discovery  
+- TCP port scanning  
+- Service and version fingerprinting  
+
+### 🔐 Security Control Review  
+- Firewall exposure analysis  
+- Email authentication validation (SPF, DKIM, DMARC)  
+- External service exposure evaluation  
+
+---
+
+## 📊 Assessment Phases & Evidence Overview  
+
+The following single consolidated screenshot contains all three phases of the assessment:
+- Phase 1: Network Discovery & Host Identification  
+- Phase 2: Service Enumeration & Port Analysis  
+- Phase 3: Email Security & Domain Protection Analysis  
+
+<img width="1298" height="1638" alt="image" src="https://github.com/user-attachments/assets/77dba9de-477b-4ef9-a013-dcf41b650cb2" />
+
+---
+
+## 🔎 Phase 1: Network Discovery & Host Identification (Slide 8)
+
+### Key Findings  
+- Identified publicly accessible hosts using Nmap/Zenmap  
+- Mapped initial external attack surface  
+- Established baseline visibility of exposed infrastructure  
+- Observed network segmentation indicators  
+
+---
+
+## 🔧 Phase 2: Service Enumeration & Port Analysis (Slide 10)
+
+### Key Findings  
+- Discovered open ports and active services  
+- Performed service version fingerprinting  
+- Evaluated firewall filtering behavior  
+- Confirmed controlled external exposure  
+
+---
+
+## 📡 Phase 3: Email Security & Domain Protection Analysis (Slide 12)
+
+### Key Findings  
+- Reviewed DNS configuration for security posture  
+- Assessed SPF, DKIM, and DMARC records  
+- Identified weak or missing DMARC enforcement  
+- Increased phishing and Business Email Compromise (BEC) risk  
+
+---
+
+## ⚠️ Risk Summary  
+
+| Area | Risk Level | Summary |
+|------|------------|--------|
+| Network Exposure | Low–Moderate | External exposure is controlled and segmented |
+| Service Security | Low | No critical misconfigurations detected |
+| Email Security | Moderate | Weak DMARC enforcement increases phishing risk |
+
+---
+
+## 💡 Business Impact  
+- Reduced external attack surface exposure  
+- Identified phishing and Business Email Compromise (BEC) risks  
+- Improved visibility into enterprise security posture  
+- Enabled risk-based remediation prioritization for stakeholders  
+
+---
+
+## 🛠️ Skills Demonstrated  
+
+### 🔐 Network Security  
+- Nmap / Zenmap  
+- TCP/IP analysis  
+- DNS reconnaissance  
+
+### 🧪 Vulnerability Assessment  
+- External attack surface mapping  
+- Service enumeration & port analysis  
+- Risk-based security evaluation  
+- Exposure analysis  
+
+### 📊 Security Reporting & Frameworks  
+- CVSS-based risk thinking  
+- MITRE ATT&CK mapping  
+- Technical-to-business reporting  
+- Professional cybersecurity documentation  
+
+--
+
+## 📌 Key Takeaway  
+This project demonstrates practical cybersecurity skills in external reconnaissance, vulnerability identification, and structured risk communication, aligned with SOC Analyst and Vulnerability Assessment roles.
