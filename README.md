@@ -277,7 +277,5 @@ The following single consolidated screenshot contains all three phases of the as
 - Technical-to-business reporting  
 - Professional cybersecurity documentation  
 
---
-
 ## 📌 Key Takeaway  
 This project demonstrates practical cybersecurity skills in external reconnaissance, vulnerability identification, and structured risk communication, aligned with SOC Analyst and Vulnerability Assessment roles.
